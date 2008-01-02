@@ -11,6 +11,7 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Source0:	%{module}-%{version}.tar.bz2
 Url:		http://www.pugscode.org/
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel readline-devel ncurses-devel
 BuildRequires:	ghc >= 6.4
 
