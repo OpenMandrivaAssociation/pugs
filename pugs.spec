@@ -1,6 +1,6 @@
 %define name	pugs
 %define version	6.2.13
-%define	release	%mkrel 4
+%define	release	%mkrel 5
 %define module  Perl6-Pugs
 
 Name:		%{name}
