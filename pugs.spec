@@ -11,7 +11,7 @@
 Summary:	A Perl 6 Implementation
 Name:		%{module}
 Version:	6.2.13.20130611
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/Pugs
