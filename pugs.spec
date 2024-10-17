@@ -14,7 +14,7 @@ Version:	6.2.13.20130611
 Release:	2
 License:	BSD
 Group:		Development/Other
-Url:		http://hackage.haskell.org/package/Pugs
+Url:		https://hackage.haskell.org/package/Pugs
 Source0:	http://hackage.haskell.org/package/%{module}-%{version}/%{module}-%{version}.tar.gz
 BuildRequires:	cabal-install
 BuildRequires:	haskell-macros
